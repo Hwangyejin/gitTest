@@ -1,6 +1,6 @@
 package com.yang.entity;
 
-// ±âº» »ý¼ºÀÚ, ÀÎÀÚ 3°³ ¹Þ´Â »ý¼ºÀÚ, setter & getter
+// ï¿½âº» ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ 3ï¿½ï¿½ ï¿½Þ´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, setter & getter
 public class User {
 	private String name;
 	private int age;
@@ -41,5 +41,7 @@ public class User {
 	public void setScore(double score) {
 		this.score = score;
 	}
+	
+	
 
 }

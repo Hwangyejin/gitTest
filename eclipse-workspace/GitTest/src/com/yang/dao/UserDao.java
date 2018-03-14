@@ -10,9 +10,9 @@ public class UserDao {
 
 	public UserDao() {
 		list = new ArrayList<User>();
-		list.add(new User("È«±æµ¿", 17, 75.3));
-		list.add(new User("ÀÌ¼ø½Å", 18, 100.0));
-		list.add(new User("°­È£µ¿", 15, 90.3));
+		list.add(new User("È«ï¿½æµ¿", 17, 75.3));
+		list.add(new User("ï¿½Ì¼ï¿½ï¿½ï¿½", 18, 100.0));
+		list.add(new User("ï¿½ï¿½È£ï¿½ï¿½", 15, 90.3));
 	}
 
 	public List<User> getUserList() {
